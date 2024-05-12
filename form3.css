@@ -1,0 +1,77 @@
+body{
+    background-color: blueviolet;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 4px 2px 45px 1px rgba(0,0,0,0.78);
+
+}
+
+.chat{
+    width: 50%;
+    text-align: center;
+    color: white;
+    background-color: rgb(96, 158, 196);
+    height: 500px;
+    align-items: center;
+    align-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+}
+
+.contact{
+    width: 50%;
+    background-color: white;
+    height: 500px;
+    align-content: center;
+    margin-top: 30px;
+}
+
+form{
+    padding-left: 30px;
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    outline: none;
+    border: none;
+    background-color: rgb(241, 236, 236);
+    color: black;
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+}
+
+textarea{
+    height: 115px;
+    width: 400px;
+    outline: none;
+    border: none;
+    background-color: rgb(241, 236, 236);
+    color: black;
+    padding: 10px;
+}
+
+button{
+    float: right;
+    margin-right: 250px;
+    border: none;
+    background-color: rgb(96, 158, 196);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 25px;
+    color: white;
+}

@@ -1,0 +1,114 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: rgb(48, 48, 96);
+    align-items: center;
+    height: 50px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown{
+    color: white;
+}
+
+/* .dropdown i{
+    display: flex;
+    justify-content: center;
+} */
+
+.icons i{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.themes{
+    display: flex;
+    /* justify-content: center; */
+    background-color: rgb(237, 233, 233);
+    margin-top: 10px;
+    height: 30px;
+    align-items: center;
+}
+
+.dashboard{
+    color: rgb(66, 66, 209);
+    padding-right: 10px;
+}
+
+.settings{
+    padding-right: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding-right: 18px;
+    margin-bottom: 10px;
+}
+
+.button-click{
+    border: none;
+    margin-top: 25px;
+    background-color: rgb(29, 127, 80);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    color: white;
+}
+
+.bg-name-manage{
+    background-color: rgb(48, 48, 96);
+    color: white;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+td{
+    padding: 10px;
+}
+
+.span1{
+    background-color: rgb(48, 48, 96);
+    padding: 5px;
+    color: white;
+    border-radius: 3px;
+}
+
+.span2{
+    background-color: rgb(226, 31, 31);
+    padding: 5px;
+    color: white;
+    border-radius: 3px;
+}
+
+.span{
+    background-color: rgb(89, 31, 226);
+    padding: 5px;
+    color: white;
+    border-radius: 3px;
+}
+
+.name1{
+    /* float: left; */
+    width: 79.5%;
+    text-align: justify;
+}
+
+.name2{
+    padding-right: 200px;
+}
+
+tr{
+    border-bottom: 1px solid;
+}

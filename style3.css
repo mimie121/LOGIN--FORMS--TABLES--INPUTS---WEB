@@ -1,0 +1,42 @@
+header{
+    background-color: grey;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    align-content: center;
+}
+
+.section{
+    /* background-color: grey; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.slide{
+    background-color: grey;
+    align-items: center;
+    text-align: center;
+    height: 450px;
+    width: 30%;
+    align-content: center;
+    margin-top: 10px;
+}
+
+.article{
+    background-color: grey;
+    align-items: center;
+    text-align: center;
+    height: 450px;
+    width: 100%;
+    align-content: center;
+    margin: 10px;
+}
+
+footer{
+    background-color: grey;
+    align-items: center;
+    text-align: center;
+    height: 50px;
+    align-content: center;
+}

@@ -1,0 +1,88 @@
+table{
+    display: flex;
+    justify-content: center;
+}
+
+tbody{
+    border-collapse: collapse;
+    border: 1px solid gray;
+}
+
+.header{
+    padding-left: 350px;
+}
+.header1{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(224, 50, 50);
+    color: white;
+}
+
+.header2{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(51, 51, 232);
+    color: white;
+}
+
+.header3{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(8, 65, 20);
+    color: white;
+}
+
+.data1{
+    text-align: center;
+}
+
+.data2{
+    display: flex;
+    justify-content: center;
+}
+
+.data3{
+    padding-left: 47px;
+}
+
+.align{
+    text-align: center;
+}
+
+.buy-plan{
+    text-align: center;
+}
+
+.red{
+    background-color:  rgb(224, 50, 50);
+    padding: 6px;
+    color: white;
+}
+
+.blue{
+    background-color: rgb(51, 51, 232) ;
+    color: white;
+}
+
+.green{
+    background-color:  rgb(8, 65, 20);
+    color: white;
+}
+
+.border{
+    border-bottom: 1px solid gray;
+}
+
+.fa-check{
+color: rgb(127, 245, 202);
+}
+
+.fa-xmark{
+    color: red;
+}

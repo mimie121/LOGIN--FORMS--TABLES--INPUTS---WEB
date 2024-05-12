@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(59, 52, 52);
+}
+
+table{
+   display: flex;
+   justify-content: center;
+}
+table, td, th, tr{
+    
+    border-collapse: collapse;
+    
+    /* padding: 10px; */
+ }
+
+ tbody{
+    background-color: white;
+ }
+ th{
+    background-color: crimson;
+    color: white;
+ }
+.name{
+    padding-right: 140px;
+    
+}
+
+.age{
+    padding-right: 50px;
+}
+
+.occupation{
+    /* padding-left: 40px; */
+    padding-right: 200px;
+}
+
+.location{
+    /* padding-left: 30px; */
+    padding-right: 50px;
+} 
+
+ .bg-color{
+    background-color: rgb(227, 224, 224);
+}
+
+.bg-color2{
+    background-color: rgb(227, 224, 224);
+}
+
+.bg-color3{
+    background-color: rgb(227, 224, 224);
+}
+
+
+.bg{
+    background-color: green;
+    padding-right: 40px;
+}
+
+.bg-2{
+    background-color: rgb(61, 61, 201);
+    padding-right: 40px;
+    padding-left: 60px;
+}
+
+.password{
+    text-align: center;
+}
+
+.active{
+    text-align: center;
+}

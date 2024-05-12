@@ -1,0 +1,38 @@
+
+
+body {
+    background-image: url("../Css/blue-background-7470781_640.jpg");
+  }
+  
+  
+
+
+
+form {
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid black;
+  }
+  
+  input {
+    width: 350px;
+    padding: 5px;
+    margin-top: 20px;
+    border: none;
+    border-bottom: 1px solid black;
+  }
+  input[type="submit"] {
+    background-color: aqua;
+    color: white;
+    border: none;
+    width: 365px;
+  }
+  
+  h1 {
+    font-size: 23px;
+    color: aqua;
+  }

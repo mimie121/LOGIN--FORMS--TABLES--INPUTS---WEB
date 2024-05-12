@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+}
+
+
+form{
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+h2{
+    text-align: center;
+   
+    padding-left: 30px;
+    padding-right: 130px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    outline: auto black;
+}
+
+td{
+ padding-right: 40px;
+}
+
+
+.input-width{
+    width: 350px;
+    
+}
+
+.address{
+    width: 500px;
+}
+
+.link{
+    margin-top: 50px;
+}
